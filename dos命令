@@ -1,0 +1,4 @@
+javac helloworld.java
+java helloworld
+javac java源文件编译为字节码文件
+
